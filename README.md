@@ -1,4 +1,4 @@
-# CodeAlpha-Stock-Portfolio-Tracker
+# CodeAlpha_StockPortfolioTracker
 
 # Description
 A simple Stock Portfolio Tracker developed using 
